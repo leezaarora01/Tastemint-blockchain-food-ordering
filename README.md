@@ -52,9 +52,6 @@ to create a decentralized and trust-based system.
 - Collaborated with team on smart contract-based workflow
 - Participated in testing and UI improvements
 
-## Live Project
-🔗 (Add live project link here if allowed)
-
 ## Note
 Due to internship confidentiality and security policies,
 the complete source code is not publicly available.
